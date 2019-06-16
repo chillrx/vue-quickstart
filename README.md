@@ -1,4 +1,4 @@
-# vue-quickstart
+# Vue Quickstart
 
 ## Project setup
 ```
